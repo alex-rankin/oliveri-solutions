@@ -1,8 +1,8 @@
 ---
-Name: mytheme
+Name: oliveri-theme
 ---
 SilverStripe\View\SSViewer:
   themes:
-    - '$public'
-    - 'simple'
-    - '$default'
+    - "$public"
+    - "oliveri-theme"
+    - "$default"
