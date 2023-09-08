@@ -33,6 +33,12 @@ While in SSH on your server you can run from the root to push the db up to your 
 mysql -h mysqlhost -u databaseuser -p databasename < oliveri-database.sql --binary-mode
 ```
 
+Finally run the below to build out the complete project.
+
 ```sh
 vendor/bin/sake dev/build
 ```
+
+Assuming everything is correct here your site should be up and running!
+
+Note: you may need to do a SQL find and replace on the domain name to move over urls to your chosen domain.
