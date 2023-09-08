@@ -1,5 +1,4 @@
-<% include SideBar %>
-<div class="content-container unit size3of4 lastUnit">
+<div class="container">
 	<article>
 		<h1>$Title</h1>
 		<div class="content">$Content</div>

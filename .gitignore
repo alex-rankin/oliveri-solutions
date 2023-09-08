@@ -2,7 +2,6 @@
 /.env
 /.vscode
 /vendor/
-/themes/simple/
 /_resources/
 /public/_resources/
 /.graphql-generated/
